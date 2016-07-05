@@ -1,0 +1,8 @@
+package Interface;
+
+interface Interface{
+	
+public void Value();
+public void Square();
+
+}
